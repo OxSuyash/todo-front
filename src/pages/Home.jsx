@@ -48,10 +48,6 @@ const Home = () => {
   }
 
 
-
-
-
-
   const submitHandler = async (e) => {
     e.preventDefault()
     try {
